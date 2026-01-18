@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Assessment Redirect Editor",
+  "name": "Redirect controller",
   "version": "1.0",
   "description": "Dynamically redirect network requests for testing purposes.",
   "permissions": [
